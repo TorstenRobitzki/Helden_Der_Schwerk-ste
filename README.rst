@@ -5,15 +5,45 @@ Die Helden der Schwertküste
 .. toctree::
    :maxdepth: 2
 
+--------------------------------
+Aufwachen bei den Echsenmenschen
+--------------------------------
+
 Bericht von Oje Füürbontje
 ==========================
+
+.. sidebar:: Oje Füürbontje
+
+   .. image:: static/Oje\ Füürbontje.jpeg
 
 Vielleicht war mein Leben im Dorf in der Gaststätte meiner Eltern doch nicht so schlecht. Mit meinen kleinen Zaubertricks habe ich die Gäste immer zum Lachen gebracht. Ich fühle das Gewicht meines Bergkristalls in meiner Hand, ein Geschenk meiner Oma.
 Doch jetzt ist er weg, alles ist weg!
 
 Wo bin ich? Warum bin ich angekettet? Was ist passiert? Als ich aufwache, höre ich fremde Stimmen um mich herum. Mit 4 anderen, armen Seelen liege ich angekettet und mittellos in einer schmutzigen Hütte. Ist das ein Traum? Die Ketten sind rostig und schneiden in mein Fleisch.
 
-Ich schaue mich um. Der, der mich geweckt hat, ist ein asketischer Typ, er hört auf den Namen Mong. Laut und polterig macht nun ein Zwerg namens Reag auf sich aufmerksam und er versucht mit schierer Muskelkraft die Kette zu zerreißen. Er scheitert. Der Halbling Will findet auf einem Tisch die Reste eines Gegengifts. Noch mehr Rätsel. Der Vierte, Argen, ein schweigsamer Typ, hält sich unauffällig im Hintergrund.
+.. sidebar:: Hmong Keh Dih Hrafih
+
+   .. image:: static/Hmong\ Keh\ Dih\ Hrafih.webp
+
+Ich schaue mich um. Der, der mich geweckt hat, ist ein asketischer Typ, er hört auf den Namen Mong.
+
+.. sidebar:: Reagan
+
+   .. image:: static/Reagen.webp
+
+Laut und polterig macht nun ein Zwerg namens Reag auf sich aufmerksam und er versucht mit schierer Muskelkraft die Kette zu zerreißen. Er scheitert.
+
+.. sidebar:: Wilbur Goldfell
+
+   .. image:: static/Wilbur\ Goldfell.webp
+
+Der Halbling Will findet auf einem Tisch die Reste eines Gegengifts. Noch mehr Rätsel.
+
+.. sidebar:: Argen Skular
+
+   .. image:: static/Argen\ Skular.webp
+
+Der Vierte, Argen, ein schweigsamer Typ, hält sich unauffällig im Hintergrund.
 
 Mong kann durch ein Fenster einen Blick nach draußen erhaschen, wir sind in einem Dorf voll mit Echsenleuten im mitten eines Dschungels. Keiner von uns hat eine Ahnung, wie wir hier hineingeraten sind. Nicht sehr zimperlich holen die Echsen uns raus. Während wir an den Ketten in die Dorfmitte gezogen werden, versuche ich das Missverständnis unserer Gefangennahme aufzuklären. Doch leider hören diese Barbaren nicht auf die Stimme der Vernunft.
 
@@ -33,3 +63,4 @@ Nun stehen wir vor den bedrohlichen Mauern der Ruine und stehen kurz davor sie z
 
 Du, der das hier liest, sein gewarnt, wir ergeben uns unserem Schicksal und gehe voran.
 Mein Name ist Oje, ein kleiner Zauberer ohne Hoffnung. (26.2.24)
+
