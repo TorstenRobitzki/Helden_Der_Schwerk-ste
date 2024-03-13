@@ -16,7 +16,7 @@ git clone -b gh-pages "${REPO_PATH}" --single-branch ${HTML_PATH}
 cd ${HTML_PATH} && git rm -rf .
 
 # generate new documentation
-cd "$ROOT" && make html 1> /dev/null
+cd "$ROOT" && make html -E 1> /dev/null
 cp ${HTML_PATH}/README.html ${HTML_PATH}/index.html
 # As a workaround for subfolders that are missing, the existance of this file seems to work
 touch ${HTML_PATH}/.nojekyll
