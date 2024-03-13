@@ -64,3 +64,26 @@ Nun stehen wir vor den bedrohlichen Mauern der Ruine und stehen kurz davor sie z
 Du, der das hier liest, sein gewarnt, wir ergeben uns unserem Schicksal und gehe voran.
 Mein Name ist Oje, ein kleiner Zauberer ohne Hoffnung. (26.2.24)
 
+Fortsetzung
+-----------
+
+Wir sind die Zeugen eines großen Wunders.
+
+Über unseren Köpfen wacht eine Kraft, die weit entfernt ist von jeder Vorstellung.
+Doch ich sollte dies Geschichte von Anfang an erzählen. Über die Leichen der getöteten Zombies schritten wir zu der Tür der Ruine, mich überkam ein Schauer, die Vorahnung des Todes.
+
+Reag trat mutig vor und horchte an dem Eingang. Da er nichts vernahm, öffnete er das Tor. Ich wich zurück, Zombies, Massen von Zombies wankten auf uns zu. Die ganze Ruine war gefüllt mit den kriechenden Leichen. Reag und Mong versuchten sie auf zuhalten und stürmten voran. Doch die schiere Anzahl der widerlichen Untoten überrannten sie.
+
+Mir stockte der Atem, als ich sah, wie der Lebensfunke aus den Augen der Beiden wich. Es war Unsicherheit und Angst, die den Kampf gegen die Zombies zu einer gewaltigen Aufgabe machten. Immer wieder bedrängten uns die Gegner und wir Überlebenden verteidigten uns mit letzter Kraft. Doch als wir schon nicht mehr glaubten, dass überhaupt einer von uns es schafft, erschlugen wir den Letzten der Untoten.
+
+Erschöpft brachen wir zusammen. Doch nun geschah das Unglaubliche, mit einem Seufzer auf den Kehlen meiner gefallenen Kameraden, kehrte das Leben wieder in sie zurück. Wir alle weinten, als Reag uns erzählte, dass sein Gott ihn berührt hat und Mong und ihm mit einem Hauch Leben schenkte.
+
+Nach einer Nacht der Ruhe wagten wir uns, die Ruine zu durchsuchen. Es war tatsächlich der Unterschlupf des Priesters Grewahn. Auf einem Thron saß der Skelett des Gesuchten. Wir beraubten ihn seiner Wertgegenstände. Unter ihnen befand sich Geld, Messer, ein Brief und der Ring (AMDM: und ein Diamant), den wir dem Sklavenhändler Nistan bringen sollten.
+
+Doch der Ring schien eine dunkle Macht in sich zu tragen, eingraviert standen da die unheilvollen Worte, Jurtus Gebeine auf ewig Deine. Aus den Märchen, die meine Großmutter mir am Kamin erzählte, wusste ich, dass Ringe mit Macht nicht an böse Leute gegeben werden sollen. Unsere Gruppe beschloss, den Ring nicht an die Bruderschaft zu übergeben.
+
+Der Brief handelte auch von dem Ring und enthielt die Forderung den Ring zurück zu geben, um den finsterer Gott Cyric milde zu stimmen. Doch der Tod von Grewahn hat das verhindert.
+
+Was nun? Unsere Lage ist weiterhin schlecht. Vielleicht können wir mit dem erbeuteten Geld im Goblindorf wichtige Hilfsmittel besorgen, damit wir in naher Zukunft diese Insel verlassen können.
+
+Als ich eine Blick auf meine Kameraden werfe, erwacht in mir ein kleiner Keim der Hoffnung. In mir, dem kleinen Zauberer Oje.
