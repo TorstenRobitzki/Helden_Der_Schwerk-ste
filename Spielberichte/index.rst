@@ -2,7 +2,7 @@ Spielberichte
 -------------
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 4
 
    Aufwachen bei den Echsenmenschen
 
