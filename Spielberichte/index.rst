@@ -6,4 +6,5 @@ Spielberichte
 
    Aufwachen bei den Echsenmenschen
    Flucht von der Insel
+   Auf dem Weg nach Baldurs Gate
 
