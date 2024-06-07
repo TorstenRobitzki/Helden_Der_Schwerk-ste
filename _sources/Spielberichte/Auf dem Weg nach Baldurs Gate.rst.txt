@@ -42,3 +42,24 @@ Nach einer Weile kamen wir in die Heimat von Will, er erzählte uns von seinem D
 
 Will entdeckte wären dessen seinen Schwager Mobel, den er für tot hielt. Doch der suchte das Weite, bevor Will mit ihm sprechen konnte. Sehr verdächtig. Auch in seinem Haus war er nicht anzutreffen. Wir durchsuchten es und fanden etwas Geld, nur 300GM, und den Familiensiegelring von Will. Wir steckten alles schnell zur Sicherheit ein, und machten uns auf die Suche nach Mobel, sollte er etwa mit dem Piratenüberfall auf das Dorf zu tun haben…
 Lesen Sie bitten auch weiter, wenn es in der nächsten Folge heißt, 'bitte, nicht schon wieder, diese Kundschafter'
+
+Aufgewacht in Mobbit
+--------------------
+
+.. sidebar:: Pony und Kleid
+
+   .. image:: /static/Pony\ und\ Kleid.webp
+
+Vor 5 Jahren hat Willbur sein Dorf verlassen, von Piraten zerstört. Bis heute hielt er sich für den einzigen Überlebenden. Wir hetzen nun durch den Wald, um seinen Schwager Mobil, ein weiteren Überlebenden zu fangen. Stunden rannten wir, aber als es dunkel wurde, verloren wir die Spur. Mobil, der sehr auffällig geflohen war, als er Willbur entdeckte, war entkommen.
+
+Wir verbrachten die Nacht im Haus des Flüchtlings. Zur Sicherheit nahmen wir die 2Ponys (Pony+Kleid) von ihm mit ins Haus. Wir waren uns sicher, dass er zurückkommen würde und so in unsere Hände geraten würde. Und er kam zurück…
+
+.. sidebar:: Mobil
+
+   .. image:: /static/Mobil\ am\ Seil.webp
+
+In der Nacht richtete er sich selber, erhängt im Stall fanden wir ihn. In seinem Abschiedsbrief stand, er hat Schuld auf sich geladen und um Wilma nicht zu gefährden, sollte Willbur die Nachforschung einstellen. Er erwähnte den Waffenschmied Orfan, der nun in Mobbit gebraucht wird.
+
+Neue Rätsel, Wilma die Frau von Mobil und Willburs Schwester lebt? Wo ist sie? Hatte Mobil einen Pakt mit den Piraten? Orfan, ein weiterer Überlebender, wird in Mobil gebraucht? Steht ein Angriff bevor? Orfan könnte in Baldurs Gate (a.d.sl: Tiefwasser) leben, erinnerte sich Mongi.
+
+Wir redeten mit den Dorfbewohnern und klärten die sonderbaren Ereignisse mit ihnen und es gab noch eine schöne Beerdigung für Mobil. Wir nahmen unsere neuen Ponys mit einen Wagen und reisten nach Baldurs Gate, um uns des Rings zu entledigen und Orfan zu suchen.

@@ -20,3 +20,8 @@ Murann
 ------
 
 Der Haela Leuchtaxt Tempel in Murann sieht sich nicht in der Lage, einen Ring, nach dem dem gesucht wird sicher zu verwaren und rät den Abenteurern den Ring nach Baldur's Gate zu bringen. Der Haela Leuchtaxt Tempel in Baldur's Gate sei eine sichere Festung, die solche Gegenstände sicherlich sicher aufbewaren kann.
+
+Baldur's Gate
+-------------
+
+Der Ring wurde unversehrt in Baldur's Gate abgegeben. Oberschwester des Ordens hat versprochen, den Ring zu untersuchen und die Erkenntnis mit den Abenteurern zu teilen.
