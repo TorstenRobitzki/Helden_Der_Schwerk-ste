@@ -26,7 +26,7 @@ Der Rest der Überfahrt blieb ruhig. In der geschäftigen Stadt Murann verabschi
 
 Es war früher Abend und wir suchten uns eine Unterkunft, etwas abseits vom Geschehen, Heimat war das Gasthaus, das uns willkommen hieß. Der Wirt Patrick war an guten Geschichten interessiert, so erzählte ich ihm, dass unser heruntergekommenes Erscheinungsbild auf die Entführung und Folter durch den Piraten Grim Badik zurückzuführe ist. Ein wenig schmückte ich die Geschichte mit leichten Übertreibungen aus, nur damit es eine gute Geschichte wird. Patrick war begeistert, und wollte aus dem Keller einen guten Tropfen zum Anstoßen holen. Doch kehrte er bleich zurück und faselte etwas von riesigen Ratten.
 
-.. sidebar:: Patrick (Wirt der Heim)
+.. sidebar:: Patrick (Wirt der Heimat)
 
    .. image:: /static/Patrick.webp
 
