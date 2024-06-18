@@ -52,7 +52,7 @@ Aufgewacht in Mobbit
 
 Vor 5 Jahren hat Willbur sein Dorf verlassen, von Piraten zerstört. Bis heute hielt er sich für den einzigen Überlebenden. Wir hetzen nun durch den Wald, um seinen Schwager Mobil, ein weiteren Überlebenden zu fangen. Stunden rannten wir, aber als es dunkel wurde, verloren wir die Spur. Mobil, der sehr auffällig geflohen war, als er Willbur entdeckte, war entkommen.
 
-Wir verbrachten die Nacht im Haus des Flüchtlings. Zur Sicherheit nahmen wir die 2Ponys (Pony+Kleid) von ihm mit ins Haus. Wir waren uns sicher, dass er zurückkommen würde und so in unsere Hände geraten würde. Und er kam zurück…
+Wir verbrachten die Nacht im Haus des Flüchtlings. Zur Sicherheit nahmen wir die 2 Ponys (Pony+Kleid) von ihm mit ins Haus. Wir waren uns sicher, dass er zurückkommen würde und so in unsere Hände geraten würde. Und er kam zurück…
 
 .. sidebar:: Mobil
 

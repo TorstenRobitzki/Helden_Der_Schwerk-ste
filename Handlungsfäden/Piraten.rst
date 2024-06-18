@@ -7,25 +7,15 @@ Der Anführer dieser Piraten ist Grim Badik.
 
 Beide, Oje und Argen können kommen aus der Region nördlich von Tiefwasser.
 
-Wilbur Goldfell lebte bis vor ca. 5 Jahren in einem Dorf, dass von Piraten ausgelöscht wurde. Wilbur war der einzige überlebende dieses Überfalls.
-
-Zum Erstaunen der Helden, wurde das Dorf wieder aufgebaut und ist nun belebt von Menschen und Halblingen. Wilburs Schwager Mobil ist der Bürgermeister des Dorfs. Mobil scheint das Erscheinen von Wilbur so in die Enge zu treiben, dass sich Mobil erhängt und folgenden Abschiedsbrief hinterläßt:
-
-Brief von Mobil an Wilbur
--------------------------
-
-.. admonition:: Brief
-
-   Wilbur, lass es gut sein! Wenn Du das Leben von Wilma nicht gefährden willst, dann lass die Sache auf sich beruhen! Ja, ich habe Schuld auf mich geladen, und glaub mir, ich habe seit dem keine Nacht mehr ruhig geschlafen.
-
-   Irgendwie hat es mich sogar gefreut, zu sehen, dass ihr den Piraten dann wohl doch entkommen seid! Auch wenn das jetzt alles sehr kompliziert macht.
-
-   Mobil
-
-   P.S. Richtet Ofan aus, dass Mobbit jetzt einen guten Waffenschmied gebrauchen kann!
-
-Zum Namen Ofan, weis Wilbur zu berichten, dass es früher mal einen Schmied im Dorf mit diesem Namen gab. Hmong Keh Dih Hrafih kennt einen Halbling und Tageslöhner in Tiefwasser mit diesem Namen.
-
-Vom Wirt im Dorf erfahren die Abenteurer auch, dass Wilbur Goldfell und Hmong Keh Dih Hrafih schon früher mal im Dorf bei Mobil zu Besuch waren. Weiter erfahren sie, dass Mobil regen Handel mit Baldurs Gate treibt. Er zahlte den Bauern gute Preise für ihre Waren. Die Preise waren so gut, dass Vertreter der Freihandelsbrüder sich nicht in der Lage sahen, mit diesen Preisen zu konkurieren.
-
 An den Toren zu Baldurs Gate erfahren die Abenteurer, dass die Piraten, dessen Schiff die Fearless Tiger ist, die Golddurstigen genannt werden.
+
+Alle Abenteure scheinen mit :ref:`Knorbleich` betäubt geworden zu sein.
+
+.. _Kapitän Flintstan:
+
+Kapitän Flimsdan
+****************
+
+Kapitän Flimsdan war mit seinem Schiff, die Seebraut auf dem Weg von Tiefwasser nach Baldurs Gate, als das Schiff mit Oje und Argen, als Gästen an Board, von den Golddurstigen überfallen und versenkt wurde. Flimsdan wurde nach Zahlung eines Lösegelds wieder frei gelassen. Die Piraten haben ihm einen Fuss abgeschlagen und den Anghörigen geschickt.
+
+Flimsdan vereinbart mit den Abenteurern, dass sie in Zukunft eine Alianz schmieden werden, um den Golddurstigen Einhalt zu gebieten. Die Abenteurer teilen Flimsdan mit, dass diese im Goldenen Esel logieren.
