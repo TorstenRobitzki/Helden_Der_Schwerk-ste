@@ -1,3 +1,5 @@
+.. _Ring:
+
 Der Ring
 ========
 
@@ -24,4 +26,31 @@ Der Haela Leuchtaxt Tempel in Murann sieht sich nicht in der Lage, einen Ring, n
 Baldur's Gate
 -------------
 
-Der Ring wurde unversehrt in Baldur's Gate abgegeben. Oberschwester des Ordens hat versprochen, den Ring zu untersuchen und die Erkenntnis mit den Abenteurern zu teilen.
+Der Ring wurde unversehrt in Baldur's Gate abgegeben. Die Oberschwester des Ordens, :ref:`Lillen Papena` hat versprochen, den Ring zu untersuchen und die Erkenntnis mit den Abenteurern zu teilen.
+
+.. _Gilda:
+
+Gilda Steinhauer
+****************
+
+Der Ring wurde aus dem Orden gestohlen. Scheinbar wurde eine naive Schwester (Gilda Steinhauer) an die Hintertür der Kirche gelockt und dort ermordet. Eine Doppelgängerin ist dann in die Kirche gegangen und hat den Ring aus dem Kästchen genommen, in dem der Ring aufbewart wurde.
+
+Der Leiche von Gilda wurde der Kopf abgeschlagen und mitgenommen. An der Leiche finden die Abenteurer neben den tötlichen Stichverletzungen auch Spuren von einem Tier, dass in etwas die Größe eines großen Hundes haben müsste.
+
+Befragungen in der Nachbarschaft führen zu den Erkenntnissen, dass sich seit ca. einer Woche, ein Bettler vor der Kirche herum getrieben hat, der früher nicht dort war und der nach dem Mord auch nicht mehr gesehen wurde. Ein anderer Nachbar meint, dass in der Dunkelheit die Staturen von 2 Personen und einem großen Hund gesehen hatte. Die eine Person wirkte gedrungen, klein und weiblich.
+
+Vor einer Woche, könnte in etwa der Zeitpunkt gewesen sein, zu dem die Nachricht über das Eintreffen der Abenteurer in Baldurs Gate, jemanden in Baldurs Gate erreicht haben könnte.
+
+.. _Sergant Heron:
+
+Sergant Heron
+*************
+
+Sergant Heron von den Flaming Fists leitet die Untersuchungen zum Mord an Gilda Steinhauer.
+
+.. _Argen Bannik:
+
+Argen Bannik
+************
+
+Der von den Abenteurern beauftragte Straßenjunge Argen Bannik kann den Bettler beschreiben, wird mit der Suche nach dem Bettler beautragt und findet noch am selben Tag die Leichen des Bettlers und einer jungen Zwergin. Dem Bettler wurde die Kehle durchgeschnitten, der Zwergin wurde die Kehle durchbissen. Reagen erkennt an der Zwergin Verletzungen von Krallen, die eher üblich für Katzen sind.
