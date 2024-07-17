@@ -3,8 +3,6 @@ Versklavung
 
 Mit starken Kopfschmerzen und schweren Gliedern wachen die Abenteurer aus einer komatösen Ohnmacht auf. Ihnen fehlt jede Erinnerung daran, wie sie in die Gefangenschaft von Echsenmenschen auf die Insel Labado geraten sind. In ihrem Gefängnis finden sie Reste eines weißen Pulvers.
 
-Lillen Papena
-
 .. _Knorbleich:
 
 Knorbleich

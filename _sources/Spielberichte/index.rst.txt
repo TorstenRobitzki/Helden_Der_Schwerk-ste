@@ -4,6 +4,7 @@ Spielberichte
 .. toctree::
    :maxdepth: 4
 
+   Die Spur führt zum Armenhaus
    Verlust des Rings
    Ankunft in Baldurs Gate
    Auf dem Weg nach Baldurs Gate
