@@ -54,3 +54,10 @@ Argen Bannik
 ************
 
 Der von den Abenteurern beauftragte Straßenjunge Argen Bannik kann den Bettler beschreiben, wird mit der Suche nach dem Bettler beautragt und findet noch am selben Tag die Leichen des Bettlers und einer jungen Zwergin. Dem Bettler wurde die Kehle durchgeschnitten, der Zwergin wurde die Kehle durchbissen. Reagen erkennt an der Zwergin Verletzungen von Krallen, die eher üblich für Katzen sind.
+
+.. _Armenhaus:
+
+Armenhaus
+*********
+
+Durch geschickte Recherche finden die Abenteurer heraus, dass der Betreiber des Armenhaus in Baldur's Gate einen Panter besitzt. Im Keller des Armenhaus gibt es eine Tür, die mit dem Wappen von Cyric verziert ist.
