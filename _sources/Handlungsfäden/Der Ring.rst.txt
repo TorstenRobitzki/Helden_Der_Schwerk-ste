@@ -41,13 +41,6 @@ Befragungen in der Nachbarschaft führen zu den Erkenntnissen, dass sich seit ca
 
 Vor einer Woche, könnte in etwa der Zeitpunkt gewesen sein, zu dem die Nachricht über das Eintreffen der Abenteurer in Baldurs Gate, jemanden in Baldurs Gate erreicht haben könnte.
 
-.. _Sergant Heron:
-
-Sergant Heron
-*************
-
-Sergant Heron von den Flaming Fists leitet die Untersuchungen zum Mord an Gilda Steinhauer.
-
 .. _Argen Bannik:
 
 Argen Bannik
@@ -61,3 +54,12 @@ Armenhaus
 *********
 
 Durch geschickte Recherche finden die Abenteurer heraus, dass der Betreiber des Armenhaus in Baldur's Gate einen Panter besitzt. Im Keller des Armenhaus gibt es eine Tür, die mit dem Wappen von Cyric verziert ist.
+
+.. _Trichter:
+
+Trichter
+********
+
+In legendären Kneipe in der Unterwelt von Baldurs Gate suchen die Helden einen Kontakt zur Diebesgilde der Stadt.
+
+An ihrem ersten Abend im Trichter, gelingt es Oje Füürbontje für den folgenden Abend ein Treffen mit dem Besitzer des Trichters zu arrangieren.
