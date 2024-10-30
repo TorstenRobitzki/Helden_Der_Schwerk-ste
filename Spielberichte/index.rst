@@ -4,6 +4,7 @@ Spielberichte
 .. toctree::
    :maxdepth: 4
 
+   Das Piraten Depot
    Ein Abend im Trichter
    Die Spur führt zum Armenhaus
    Verlust des Rings
