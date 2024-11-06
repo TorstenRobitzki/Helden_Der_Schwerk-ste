@@ -11,4 +11,5 @@ NSCs
    Sokan Fördot.rst
    Lillen Papena.rst
    Sergant Heron.rst
+   Wilma Goldfell.rst
 
