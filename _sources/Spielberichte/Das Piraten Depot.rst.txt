@@ -54,3 +54,74 @@ Beim Erkunden der Lagerhalle bemerkten wir eine Falltür in der Mitte, die weite
 Wir fanden, außer Proviant, Teile für die Schiffsinstandhaltung. Dort lagen auch drei elfische Gefangene, die vermutlich mit Knorbleich betäubt worden waren. Als wir sie gerade befreien wollten, öffnete sich plötzlich die Falltür…
 
 Bericht von Argen Skular
+
+Das Piraten Depot 2. Teil (wir räumen auf)
+******************************************
+
+…öffnete sich plötzlich die Falltür.
+
+Eigentlich ist nix passiert, aber anscheinend hat sich Hmong Keh Die Hrrafih so derart erschrocken, dass er in Ohnmacht gefallen ist und für den Rest der Durchsuchung nicht zur Verfügung steht.
+
+Wir Untersuchen weiterhin den großen Raum. Frühstück macht sich über ein Fass mit Honig her und Wilbur hat seine liebe Mühe ihn wieder unter Kontrolle zu bringen. Oje hat (mal wieder) einen Geistesblitz und schüttet etwas Honig in eine Ecke an dem sich der Bär gütlich tun kann.
+
+.. sidebar:: 2. Frühstück für Frühstück
+
+   .. image:: /static/Frühstück\ mit\ Honig.webp
+
+Aus der Luke vom unteren Stockwerk sind Handwerksarbeiten zu hören, die uns im Moment nicht weiter interessieren.
+
+Wir untersuchen weiter diese Etage und sammeln diverse Fässer mit Teer ein. Oje hat da eine Idee.
+
+Eine kleine Unaufmerksamkeit von Argen wird ihm fast zum Verhängnis. Er löst eine Falle aus, die ihm fast das Leben kostet und einen Alarm auslöst. Warum Wilbur das so witzig findet begreifen wir alle nicht. Vielleicht ist das der Grund, warum ihm danach das Angriffsglück nicht mehr hold war.
+
+Durch meine Hände bekommt Argen die Gunst Halleah zu spüren und einige Wunden der vergifteten Falle schließen sich.
+
+.. sidebar:: die Gunst Halleahs schließt Argens Wunden
+
+   .. image:: /static/Schließende\ Wunden.webp
+
+Wir gehen weiter in den 1. Stock.
+Ich bin am Ende der Gruppe und gebe nach vorne durch, dass bislang alles ruhig ist. Anscheinend wird meinen Worten nicht geglaubt und Oje schickt Argen noch mal zurück, um die Lage zu überprüfen. Es bleibt ruhig.
+
+Eine Truhe mit Bandagen wird geplündert. (für die Idee von Oje). In einem Krankenzimmer kommt uns eine Geruch von Wundbrand entgegen, der von einem schwer verletztem Ort ausgeht. Der gute Wilbur sieht weder den sterbenden Ork noch kommt ihm der Geruch merkwürdig vor. Ist das die Rache für das Auslachen???
+
+Derweil versucht sich Argen an einer verschlossenen Tür, die geschmeidig von ihm geknackt wird. Makowski hätte seine wahre Freude an ihm gehabt. Im Zimmer befindet sich eine mit Fallen gespickte Truhe, die von uns ordnungsgemäß und sicher geöffnet wird. U.a. befindet sich dort eine Seekarte mit den weiteren Unterschlupfen von den Golddurstigen und ihrer Fearless Tiger.
+
+Von ihrer letzen Reise haben die Piraten tatsächlich einen Zombie mitgebracht und in einem Zimmer eingesperrt, diese roch genauso nach Wundbrand wie der Ork aus dem Nebenzimmer. Trotz meines starken Glaubens war es mir nicht möglich den Zombie mit dem göttlichen Segen zu vertreiben, anscheinend war diese Ausgeburt der Hölle immun gegen solche Dinge. Wir mussten dann in Handarbeit dem Zombie den Gar ausmachen.
+
+.. sidebar:: der Zombie greift sofort an
+
+   .. image:: /static/Zombie\ im\ Piratendepot.webp
+
+Etwas leichtgläubig bin ich dann wieder in den großen Raum gegangen und wurde von 5 Seeleuten erwartet, die sich hinter Fässern versteckt haben. Ein harter Kampf entbrennt zwischen uns und den Piraten. Die Armbrustbolzen von Wilbur verfehlen, trotz magischer Unterstützung, ihr Ziel. (immer noch die Rache des Lachers?) Oje´s Haare fangen an zu glühen und er zaubert eine schöne Explosion herbei.
+Nun sind die Piraten am Zug und ein Pfeilhagel geht auf uns nieder und das alles nur von einem Bogenschützen. Ich bin froh, dass es nur einen davon auf Piratenseite gibt. Die Zauberin der Piraten wirkt einen Blitz, der auf Argen niedergeht. Geschickt weicht dieser dem Blitz aus, kann aber die Wirkung nicht ganz verhindern und bricht, leicht qualmend, an Ort und Stelle zusammen.
+Endlich wirkt die Magie von Wilburs Bolzen und schlagen mit Dornenmagie auf die Piraten nieder.
+
+Oje läuft zu Höchstform auf und scheint selbst in Flammen zu stehen. Die Zauberin geht in Flammen auf und stirbt. Kurz beeindruckt zuckt der Pirat vor Oje und Wilbur zusammen, reißt sich aber zusammen und kämpft weiter.
+Ich lasse Argen wieder die Kraft von Halleah spüren. Dieser springt auf, schlägt auf den Dicken (wie er liebevoll von uns genannt wurde) und spurtet in eine Ecke, ohne noch einen Schlag abzubekommen. Eine gute Taktik, die ihn am Leben hält.
+Der Dicke und sein Piratenfreund verzweifeln an meinem göttlichen Schutz und ihre Schläge verfehlen mich mehrfach. Halleah ist bei mir.
+Mit einer Hammerkanonade und dem Hinundwiederweg Schlag von Argen (oder wie Oje es nennt: den nah und fern schlag), ringen wir den Dicken nieder.
+Oje erkennt die Situation und zwingt die beiden letzten Piraten zur Aufgabe.
+
+.. sidebar:: die letzten Piraten ergeben sich, nach dem klar ist, dass die Niederlage unabwendbar ist
+
+   .. image:: /static/Pirat\ ergibt\ sich.webp
+
+Jetzt beginnt das Verhör! Ich sag mal so: Oje´s Verhörmethoden sind gewöhnungsbedürftig aber dafür sehr zielführend.
+
+Wir wissen jetzt das der Dicke, Ellin Dwoung hieß, das die :ref:`Fearless Tiger` ca. 50 Mann Besatzung hat, der Kapitän :ref:`Grim Badik` heißt, Axt-Jogge der 1. Offizier heißt und eventl. ein Werbär ist und es noch einen Offizier Namens Bart Hansen gibt. Ob die :ref:`Schwester von Wilbur<Wilma Goldfell>` nun Freiwillig auf dem Piragenschiff ist oder eine Gefangene ist bekommen wir nicht so recht in Erfahrung. Aber im Großen und Ganzen gar nicht schlecht für den Anfang auch wenn wir einige Informationen schon wussten.
+
+Der letzte überlebende Pirat wird mittels Knorbleiche in einen tiefen Schlaf versetzt. Mittels des Schlüssels vom Dicken plündern wir die Waffenkammer.
+Wir verstauen alles in die Kutsche und wollen zu guter Letzt noch die schlafenden Elfen wecken, als wir Oje sagen hören………….. “Wer oder was ist ein Makowski?“
+
+gezeichnet:
+Reagen
+
+
+
+
+
+
+
+
+
