@@ -117,11 +117,26 @@ Wir verstauen alles in die Kutsche und wollen zu guter Letzt noch die schlafende
 gezeichnet:
 Reagen
 
+Ein Piratendepot, verlorene Elben und der Ring der Macht
+********************************************************
+
+Unser Abenteuer begann in der bedrückenden Stille des Piratendepots. Die Wände aus grobem Stein, das Holz modrig und der Geruch von Verfall und verbranntem Öl überall – ein Ort, der von dunklen Geschäften und Gewalt zeugte. Wir hatten es geschafft, die letzten Piraten niederzuringen, doch die Frage nach Markowski, unserem ursprünglichen Ziel, blieb unbeantwortet. Bevor wir das Lager jedoch verlassen konnten, war klar: Wir würden alles hier in Asche legen. Keine Spur dieser Schurken sollte übrig bleiben.
+
+Doch bevor wir beginnen konnten, entdeckten wir eine hintere Kammer – und in ihr vier bewusstlose Elben. Adleront, Eloah, Hier Olve und Lalala (ADM: Aglarond, Elohir, Olwe und Lalaith) waren ihre Namen, wie wir später erfuhren. Gefesselt, misshandelt und vergiftet, hatten sie dasselbe Schicksal erlitten wie wir. Doch wir hatten das Gegengift. Mit einer Kombination aus Alchemie, Magie und purer Entschlossenheit brachten wir sie zurück ins Leben.
+
+Die Elben, die von einer fernen Insel (ADM: Ruathym) kamen, waren auf dem Weg nach Tiefwasser, als sie von den Piraten entführt wurden. Geschwächt und erschöpft beschlossen wir gemeinsam eine Pause einzulegen. Während ich mich an meinen treuen Bären Frühstück kuschelte, stärkten wir uns mit einem reichlichen Frühstück. Mit neuer Kraft und vereinten Kräften machten wir uns daran, das Lager zu plündern – und es anschließend in Flammen aufgehen zu lassen.
 
 
+Ein Inferno im Piratendepot
+***************************
 
+Wir sammelten alles Wertvolle zusammen: Waffen, Schmuck und Proviant. Großzügig überließen wir den Elben einen guten Teil der Beute, denn sie waren ohne Ausrüstung und schutzlos. Als wir alles beisammen hatten, entzündeten wir das Feuer. Die Flammen fraßen sich gierig durch die Holzkonstruktionen und die Reste der Piraten. Am Ende blieb nur Asche zurück. Mit unseren neuen Freunden kehrten wir nach Walders Geht (ADM: Baldurs Gate) zurück.
 
+.. sidebar:: ein Fernrohr
 
+   .. image:: /static/fernrohr.webp
+
+Dort berichteten wir :ref:`Heron<Sergant Heron>` von unseren Taten. Sein Lob war wohltuend, doch die Reise der Elben führte sie weiter nach Tiefwasser. Mit Dankbarkeit verabschiedeten sie sich von uns, und wir gingen daran, unseren Schatz zu verkaufen. Der Erlös war mager, aber reichte uns aus, mir reichte: ein Fernrohr. Endlich konnte ich in die Sterne und die Ferne blicken!
 
 
 

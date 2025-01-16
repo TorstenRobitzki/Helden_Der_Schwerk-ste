@@ -4,6 +4,7 @@ Spielberichte
 .. toctree::
    :maxdepth: 4
 
+   Der Ring auf dem Handelsweg nach Osten
    Das Piraten Depot
    Ein Abend im Trichter
    Die Spur führt zum Armenhaus
