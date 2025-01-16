@@ -60,6 +60,11 @@ Durch geschickte Recherche finden die Abenteurer heraus, dass der Betreiber des 
 Trichter
 ********
 
-In legendären Kneipe in der Unterwelt von Baldurs Gate suchen die Helden einen Kontakt zur Diebesgilde der Stadt.
+In der legendären Kneipe in der Unterwelt von Baldurs Gate suchen die Helden einen Kontakt zur Diebesgilde der Stadt.
 
 An ihrem ersten Abend im Trichter, gelingt es Oje Füürbontje für den folgenden Abend ein Treffen mit dem Besitzer des Trichters zu arrangieren.
+
+Seipeo
+******
+
+Die Abenteurer bekommen den Hinweise, dass :ref:`Seipeo` alleine mit dem :ref:`Ring<Ring>` Richtung Osten aufgebrochen ist. Die Abenteurer folgen Seipeo nach Osten und stellen ihn kurz vor einem Gasthaus. In einem kurzen Kampf unterliegt Seipeo. Die Abenteurer finden den :ref:`Ring<Ring>` bei Seipeos Leichnam.

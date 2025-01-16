@@ -12,4 +12,5 @@ NSCs
    Lillen Papena.rst
    Sergant Heron.rst
    Wilma Goldfell.rst
+   Seipeo
 
