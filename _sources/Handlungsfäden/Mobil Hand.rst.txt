@@ -7,6 +7,8 @@ Wilbur Goldfell lebte bis vor ca. 5 Jahren in einem Dorf namens Mobbit, dass von
 
 Zum Erstaunen der Helden, wurde das Dorf wieder aufgebaut und ist nun belebt von Menschen und Halblingen. Wilburs Schwager Mobil ist der Bürgermeister des Dorfs. Mobil scheint das Erscheinen von Wilbur so in die Enge zu treiben, dass sich Mobil erhängt und folgenden Abschiedsbrief hinterläßt:
 
+.. _Brief von Mobil an Wilbur:
+
 Brief von Mobil an Wilbur
 -------------------------
 
