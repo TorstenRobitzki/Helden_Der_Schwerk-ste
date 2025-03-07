@@ -4,6 +4,7 @@ Spielberichte
 .. toctree::
    :maxdepth: 4
 
+   Auf dem Weg nach Ruathym
    Der Ring auf dem Handelsweg nach Osten
    Das Piraten Depot
    Ein Abend im Trichter
