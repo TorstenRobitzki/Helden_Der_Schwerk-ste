@@ -104,7 +104,7 @@ Die Stadt war sehr interessant, aber….wir müssen weiter.
 
 .. sidebar:: Verdorbene Kräuter
 
-   .. image:: /static/Verdorbene\ Kräuter.webp
+   .. image:: /static/Verdorbene\ Kraeuter.webp
 
 
 Bevor wir unser Schiff, den Fliegenden Fisch, besteigen gibt es noch kurz Ärger um 6 Kisten mit verdorbener Ware, aber dass soll nicht unser Problem sein.
