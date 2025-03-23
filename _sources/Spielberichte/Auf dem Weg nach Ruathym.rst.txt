@@ -60,3 +60,57 @@ Angriff aus der Tiefe
 
 Doch wie sollte es anders kommen, aus den Fluten des Meeres erhebt sich eine schleimige Kreatur mit Tentakeln. Das Pech geht schon wieder los. Später fand ich heraus, es ist ein Aboleth. Mit seinen glitschigen Tentakeln schlägt das Monster um sich. Willbur kann mit seinem eisernen Willen, eine Gedankenkontrolle des Aboleth verhindern. Als Antwort schiesst er einen wahren Pfeilhagel mit seiner Armbrust. Hmongi rennt herbei und schlägt mit Kampfstab und Füssen auf die Kreatur ein. Nun ist leider der Aboleth dran, unzählige Tentakeln schlagen auf den armen Hmongi ein und er sinkt bewusstlos zu Boden. Aber wie eine geölte Maschine funktioniert unsere Gruppe. :ref:`Reagen` hilf sofort mit seinen heilenden Zaubern. Hurra, Hmongi steht wieder. Ich unterstütze meine Freunde mit meinen Feuerzaubern, die in letzter Zeit wieder etwas mächtiger geworden sind. Und gemeinsam, mit vereinter Kraft ringen wir das Monster nieder. Ein weiterer Sieg der Helden der Schwertküste. Das war knapp.
 Und hier beschließe ich für heute meine Aufzeichnungen.
+
+Die Reise geht weiter!
+----------------------
+
+Wir entschließen uns mit dem Boot nach Tiefwasser zu reisen. Die Elben sind auch an Bord…warum waren die noch hier???….ach ja, wir sollen sie ja zu ihrer Insel begleiten..ich :ref:`Dussel<Reagen>`.
+
+:ref:`Money Day Raffi<Hmong Keh Dih Hrafih>` (bei Haela….keine Ahnung wie man diesen Namen schreibt) leidet immer noch unter dem Fluch des Wasserwesens und  ich kann ihm leider nicht helfen. Ich habe es mir zwar schon zur Aufgabe gemacht ihn und Argen wieder auf die Beine zu Helfen, aber hier hört meine Kraft auf.
+
+.. sidebar:: Tiefwasser
+
+   .. image:: /static/Tiefwasser.webp
+
+Wir erreichen Tiefwasser……was für eine riesige Stadt. Der Palast auf dem Berg ist wirklich beeindruckend. Da könnte aber auch gut ein Tempel stehen.
+
+Das Angebot der Handelsgesellschaft uns eine kostenlose Unterkunft zu gewähren wird von :ref:`Oje<Oje Füübontje>` vehement abgelehnt, boah ist der Nachtragend. So kommen wir in der Gaststätte Zum gegrillten Schwein unter. Hier gibt :ref:`Oje<Oje Füübontje>` unser Gold wieder mit beiden Händen aus. Ich habs ja nicht so mit den Zahlen, aber ich hab das Gefühl, dass wir das nicht allzugange durchhalten.
+
+Gemeinsam mit :ref:`Wilbur<Wilbur Goldfell>` begeben wir uns zum Tempel meiner Göttin Haela Leuchtaxt. Vor dem Tor bemerke ich, dass :ref:`Wilbur<Wilbur Goldfell>` mich anscheinend doch nicht begleitet hat und lieber bei :ref:`Oje<Oje Füübontje>` verblieben ist….so kann ein Zwerg sich täuschen.
+Wir, äh nein Ich werde zur Mutter Oberin vorgelassen. Sie fragt mich, ob ich DER Reagen bin??? Welcher Reagen sollte ich denn sonst sein, frage ich :ref:`Wilbur<Wilbur Goldfell>`….steht er jetzt hinter mir oder nicht? Ich bin verwirrt.
+
+.. sidebar:: Mace of Disruption
+
+   .. image:: /static/Mace\ of\ Disruption.webp
+
+Jedenfalls, dürfen wir unseren Faustkämpfer (Ha! so vermeide ich es den Namen schreiben zu müssen) in ihre Obhut geben und sie ist guter Dinge, dass sie diesen Fluch beenden kann.
+
+So, jetzt sind wir aber alle zusammen und machen uns auf die Suche nach Ofan, den Schmied. Unser, in einer Wassertonne sitzende Mönch, weiß ungefähr wo Ofan sich aufhalten soll.
+Und tatsächlich finden den Halbling in einer Seitengasse. Ganz schön runtergekommen und etwas abgemagert. Anscheinend hat er ein ähnliches Schicksal wie wir erlitten und kann sich an viele Dinge nicht erinnern.
+
+Wir bekommen es aber hin, ihn auf die Reise zu seinem Dorf Mohit zu machen. Oje übergibt ihm Reisegeld und eine Passage nach Baldurs Gate.
+
+Bei der Abholung des genesenen :ref:`Faustkämpfer<Hmong Keh Dih Hrafih>`, überreicht mir die Mutter Oberin einen mächtigen Streitkolben (ein Hammer wäre mir lieber, aber ich wollte das so nicht sagen. Ich glaube, das wäre unangemessen gewesen.). Zu dem schönen Streitkolben gönne ich mir noch ein schönes Schild.
+
+.. sidebar:: Babette die barbusige Sängerin
+
+   .. image:: /static/barbusige\ Babette.jpg
+
+Als nächstes suchen wir wieder die Händler auf, um die Reise zu den Elbeninseln zu planen. Es dauert wohl einige Zeit die Mannschaft zusammenzustellen, so dass wir noch einige Tage in Tiefwasser verbringen können. Dieser wirklich atemberaubenden Stadt.
+
+Oje hat uns Karten für ein Theaterstück besorgt. Wir genießen die Zeit mit der barbusigen Barbett. Unsere Magier lässt es sich nicht nehmen der Schönheit (zumindest in seinen Augen) einen großen Strauß Rosen zukommen zu lassen.
+
+Die Stadt war sehr interessant, aber….wir müssen weiter.
+
+.. sidebar:: Verdorbene Kräuter
+
+   .. image:: /static/Verdorbene\ Kräuter.webp
+
+
+Bevor wir unser Schiff, den Fliegenden Fisch, besteigen gibt es noch kurz Ärger um 6 Kisten mit verdorbener Ware, aber dass soll nicht unser Problem sein.
+
+Und so machen wir uns wieder auf zu den Elbeninseln.
+
+
+
+gez. Reagen
