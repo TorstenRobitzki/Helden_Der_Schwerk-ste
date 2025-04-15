@@ -29,24 +29,24 @@ Und dem ist auch so, wir wollen ja zurück nach Baldurs Gate. Wir buchen eine kl
 Der kleine, uns ans Herz gewachsene Jung Argen, übermittelt uns eine Nachricht von Alex, dem Unterweltboss. Der Nette möchte uns mal wieder sehen. Das trifft sich gut, so können wir ihm auch von dem plötzlichen Tod des Drowelfen erzählen. Im :ref:`„Trichter“<Trichter>` schaffe ich es wieder nicht, dem Türoger eine Lächeln zu entlocken, ein zäher Hund.
 
 
-Wiedersehen mit Lalaith
------------------------
+Wiedersehen mit :ref:`Lalaith`
+------------------------------
 
 .. sidebar:: Alex
 
    .. image:: /static/Alex.webp
 
-Alex stellt uns einen Mensche vor, Fantimi Gossona. Er ist der n Begleitung von der Elfe Lalaith. So schnell sieht man sich wieder Lalaith ist eine der Elfen, die wir aus dem Piratenversteck befreit haben und eine hübsche ist sie auch. Meine Augen wandern über ihren Körper. Mmh, unter der Seide ihren Kleides zeichnet sich ihr wohlgeformter …
+Alex stellt uns einen Mensche vor, Fantimi Gossona. Er ist der n Begleitung von der Elfe :ref:`Lalaith`. So schnell sieht man sich wieder :ref:`Lalaith` ist eine der Elfen, die wir aus dem Piratenversteck befreit haben und eine hübsche ist sie auch. Meine Augen wandern über ihren Körper. Mmh, unter der Seide ihren Kleides zeichnet sich ihr wohlgeformter …
 
 .. sidebar:: Lalaith
 
    .. image:: /static/Lalaith.webp
 
-Bitte, was hat er gerade gesagt, Fantimi ist einer der Handelsbrüder, dieser miese Verein, Sklavenhändler, Abschaum. Den werde ich mal lieber sehr wachsam beobachten, mich wird niemand mehr lebend in die Sklaverei zwingen. Zu meiner Überraschung ist er aber ein ganz umgängliche Person, aber ich bleibe misstrauisch. Lalaith und ihre Elfenfreunde wollen zurück in die Heimat und hätten uns gerne zum Schutz angeworben. Wie könnte ich ihren Augen einen Wunsch abschlagen. Ich glaube, sie ist an mir interessiert. Nur Mut Oje, diesmal bekommst du es hin, meine Hände werden sofort schwitzig.
+Bitte, was hat er gerade gesagt, Fantimi ist einer der Handelsbrüder, dieser miese Verein, Sklavenhändler, Abschaum. Den werde ich mal lieber sehr wachsam beobachten, mich wird niemand mehr lebend in die Sklaverei zwingen. Zu meiner Überraschung ist er aber ein ganz umgängliche Person, aber ich bleibe misstrauisch. :ref:`Lalaith` und ihre Elfenfreunde wollen zurück in die Heimat und hätten uns gerne zum Schutz angeworben. Wie könnte ich ihren Augen einen Wunsch abschlagen. Ich glaube, sie ist an mir interessiert. Nur Mut Oje, diesmal bekommst du es hin, meine Hände werden sofort schwitzig.
 
-Also ging es los, wir, die Elfen, die wunderschöne Lalaith, Olwe, Aglarond, Elohir und der verdächtige Fantimi buchten eine Schiffsreise nach Tiefwasser. Leider war es ein Schiff der Handelsbrüderreederei. Aber was soll’s, ich werde ein paar schöne Tage mit Lalaith haben. Wie soll ich es sagen, es hätte schön werden können. Bei einem Sonnenuntergang an Deck versuche ich es mit meinem Charm, Lalaith zu betören, aber meine unbeholfene Art oder meine Unerfahrenheit scheinen das Gegenteil zu erreichen.
+Also ging es los, wir, die Elfen, die wunderschöne :ref:`Lalaith`, :ref:`Olwe`, :ref:`Aglarond`, :ref:`Elohir` und der verdächtige Fantimi buchten eine Schiffsreise nach Tiefwasser. Leider war es ein Schiff der Handelsbrüderreederei. Aber was soll’s, ich werde ein paar schöne Tage mit :ref:`Lalaith` haben. Wie soll ich es sagen, es hätte schön werden können. Bei einem Sonnenuntergang an Deck versuche ich es mit meinem Charm, :ref:`Lalaith` zu betören, aber meine unbeholfene Art oder meine Unerfahrenheit scheinen das Gegenteil zu erreichen.
 
-Lalaith ist freundlich, doch ich sehe in ihren Augen, sie hat gar kein Interesse. Verschwitzt und enttäuscht will ich nun schnell die Reise hinter mich bringen. Ich verstehe die Frauen nicht.
+:ref:`Lalaith` ist freundlich, doch ich sehe in ihren Augen, sie hat gar kein Interesse. Verschwitzt und enttäuscht will ich nun schnell die Reise hinter mich bringen. Ich verstehe die Frauen nicht.
 
 Während der Wache von :ref:`Willbur<Wilbur Goldfell>` versuche ich mich ihm anzuvertrauen, er ist doch trotz seiner Größe ein ganzer Halblingsmann. Er kennt sich aus. Stotternd beginne ich ein unverfängliches Gespräch.
 
@@ -111,6 +111,33 @@ Bevor wir unser Schiff, den Fliegenden Fisch, besteigen gibt es noch kurz Ärger
 
 Und so machen wir uns wieder auf zu den Elbeninseln.
 
-
-
 gez. Reagen
+
+Ankunft in Ruathym
+------------------
+
+Die Reise nach Ruahym war sehr ernüchternd, dachte ich doch :ref:`Lalaith` besser kennenzulernen. Die Seekrankheit hatte mich aber fest im Griff und behinderte meine Annäherungsversuche. Zum Glück dauerte die Überfahrt nicht all zu lang.
+
+.. sidebar:: Nairasim
+
+   .. image:: /static/Nairasim.webp
+
+Wir erreichten Ruathym und zu meiner Überraschung stellte sich heraus, dass :ref:`Lalaith` eine wahrhafte Prinzessin ist. Zum Glück hinderte mich die Seekrankheit an einem großen Fauxpas. In dem Inselreich grassierte eine unbekannte Seuche, die Infizierte in Zombies verwandelt. Über dem ganze Reich lag ein Schatten, man hörte kein Lachen und sah keine fröhlichen Gesichter. War es ein Fluch, der mit unserem Ring zu tun hatte?
+
+Um auszuschließen, dass wir infiziert sind, wurden wir ein paar Tage in Quarantäne gesteckt, sogar mit der Prinzessin. Wir verbrachten unsere „Gefangenschaft“ in einer komfortablen Unterkunft. Ich geriet also vom Regen in die Traufe, erst die Seekrankheit jetzt das hier. Ich versuchte mir mein Unwohlsein nicht anmerken zulassen, ich suchte ohne Unterlass nach Fluchtmöglichkeiten, ich wollte bereit sein.
+
+.. sidebar:: Aglarond
+
+   .. image:: /static/Aglarond.webp
+
+
+Dann kam unsere Befreiung, wir durften in das königliche Schloss umziehen. Welche wahre Pracht, welch unermesslicher Luxus. Im Schloss nutze ich die Zeit und fand mit Meister Aglarond, dem Herrn über die Bibliothek, heraus, dass die Seuche vor einem halben Jahr ausbrach. Ich konnte aber keine Verbindung zum Ring oder Cyric finden. Der königliche Leibarzt Hansala hat ein Serum entwickelt, das Infizierte heilen kann, aber nur bevor die Krankheit ausgebrochen ist. Für weitere Nachforschungen ist keine weitere Zeit gewesen, denn das große Bankett begann.
+
+.. sidebar:: Königin Nairas
+
+   .. image:: /static/Nairas.webp
+
+Feierlich wurden wir alle der Königin Nairas vorgestellt, eine wunderschöne Elfe, aber doch stellte Ihre Tochter :ref:`Lalaith` sie in Sachen Lieblichkeit und Schönheit noch in den Schatten.
+Es gab ein wahres Festessen und zu meinem Glück saß ich direkt neben :ref:`Lalaith`. Ich war in hoch Stimmung.
+
+Die Königin hatte aber noch etwas zu besprechen, jetzt kriege ich Ärger, da ich mit :ref:`Lalaith` geflirtet habe. Aber da hatte ich mich geirrt. Nairas hatte eine Bitte an uns, es fehlte an einer Heilpflanze namens Mergankraut, die auf der Nachbarinsel wächst. Eine Expedition, die auf der Suche nach ihr war, ist verschollen. Mmh, war auf der Insel nicht ein geheimer Standort der miesen Piraten. Ich schaue :ref:`Lalaith` tief in die Augen und versuchte selbstbewusst auszusehen, als ich und mein Freunde zusagten. Mal sehen, was uns erwartet und wir mich :ref:`Lalaith` vermissen…
