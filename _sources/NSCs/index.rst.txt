@@ -13,4 +13,5 @@ NSCs
    Sergant Heron.rst
    Wilma Goldfell.rst
    Seipeo
+   Lalaith
 
