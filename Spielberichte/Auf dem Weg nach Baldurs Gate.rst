@@ -5,6 +5,8 @@ Auf dem Weg nach Baldurs Gate
 Bericht von Oje Füürbontje
 ==========================
 
+.. _Flucht aus Murann:
+
 Flucht aus Murann
 -----------------
 
@@ -14,11 +16,11 @@ Flucht aus Murann
 
 Wir verließen also Murann, etwas überhastet und mit viel Zorn auf die Handelsbrüder. Abseits des Weges durch kleine Wälder und Felder bewegten wir uns in Richtung 'Die Kleinen Zähne', ein kleines Gebirge im Süden von Amn. Überraschend trafen wir an einem Bach auf einen Waldkauz namens Juko. Er bat uns ein riesiges, zweiköpfiges Monster an der Quelle zu töten. Da wir nach den Erfolgen der Vergangenheit ein heldenhaftes Hochgefühl hatten, sagten wir zu. Vorsichtig näherten wir uns dem Ungetüm. Nun war es an unseren besten Kundschaftern Argen und Monki, die Lage zu erkunden. Ohne jede Vorsicht und Gewandtheit stolperten Sie in die offenen Arme eines mächtigen Ettins. Argen ging zu Boden, Monki erwehrte sich seiner Haut, als wir eintrafen. Zu meiner Überraschung rangen wir das Monster nieder, füllten unsere karge Ausrüstung mit einigen nützlichen Gegenständen auf und kehrten siegreich zu Juko zurück.
 
-.. sidebar:: Frühstück
+.. sidebar:: :ref:`Frühstück`
 
    .. image:: /static/Frühstück\ als\ Baby.webp
 
-Der Kauz war sehr zufrieden mit unserer Leistung und übergab Will eine Bärenbaby, dessen Mutter von dem Ettin getötet wurde. Es lag auf der Hand, dass wir ihn Frühstück nannten und alle schlossen das putzige Tier in ihr Herz.
+Der Kauz war sehr zufrieden mit unserer Leistung und übergab Will eine Bärenbaby, dessen Mutter von dem Ettin getötet wurde. Es lag auf der Hand, dass wir ihn :ref:<Frühstück> nannten und alle schlossen das putzige Tier in ihr Herz.
 
 Das Gasthaus 'Zur Zahnlücke'
 ----------------------------
