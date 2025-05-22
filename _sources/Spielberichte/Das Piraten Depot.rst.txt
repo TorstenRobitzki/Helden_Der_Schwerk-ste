@@ -55,6 +55,8 @@ Wir fanden, außer Proviant, Teile für die Schiffsinstandhaltung. Dort lagen au
 
 Bericht von Argen Skular
 
+.. _Piratendepot:
+
 Das Piraten Depot 2. Teil (wir räumen auf)
 ******************************************
 
@@ -87,7 +89,7 @@ Eine Truhe mit Bandagen wird geplündert. (für die Idee von Oje). In einem Kran
 
 Derweil versucht sich Argen an einer verschlossenen Tür, die geschmeidig von ihm geknackt wird. Makowski hätte seine wahre Freude an ihm gehabt. Im Zimmer befindet sich eine mit Fallen gespickte Truhe, die von uns ordnungsgemäß und sicher geöffnet wird. U.a. befindet sich dort eine Seekarte mit den weiteren Unterschlupfen von den Golddurstigen und ihrer Fearless Tiger.
 
-Von ihrer letzen Reise haben die Piraten tatsächlich einen Zombie mitgebracht und in einem Zimmer eingesperrt, diese roch genauso nach Wundbrand wie der Ork aus dem Nebenzimmer. Trotz meines starken Glaubens war es mir nicht möglich den Zombie mit dem göttlichen Segen zu vertreiben, anscheinend war diese Ausgeburt der Hölle immun gegen solche Dinge. Wir mussten dann in Handarbeit dem Zombie den Gar ausmachen.
+Von ihrer letzen Reise haben die Piraten tatsächlich einen :ref:`Zombie<Zombies>` mitgebracht und in einem Zimmer eingesperrt, diese roch genauso nach Wundbrand wie der Ork aus dem Nebenzimmer. Trotz meines starken Glaubens war es mir nicht möglich den :ref:`Zombie<Zombies>` mit dem göttlichen Segen zu vertreiben, anscheinend war diese Ausgeburt der Hölle immun gegen solche Dinge. Wir mussten dann in Handarbeit dem :ref:`Zombie<Zombies>` den Gar ausmachen.
 
 .. sidebar:: der Zombie greift sofort an
 

@@ -3,6 +3,8 @@
 Der Ring
 ========
 
+.. _Labado:
+
 Labado
 ------
 
