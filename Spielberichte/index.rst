@@ -4,6 +4,7 @@ Spielberichte
 .. toctree::
    :maxdepth: 4
 
+   Ruathimi
    Ruathym
    Auf dem Weg nach Ruathym
    Der Ring auf dem Handelsweg nach Osten
