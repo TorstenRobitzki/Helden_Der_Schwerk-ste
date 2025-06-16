@@ -51,35 +51,3 @@ Dann, während wir noch frühstückten, holte :ref:`Oje<Oje Füübontje>` sein F
 Dann, gestärkt und bereit, traten wir zum Kai.
 
 Vor uns: Das Meer. Und jenseits davon: Rutanie, die Insel der Drachen und Kräuter. Und was sonst noch dort auf uns wartete – das würde sich zeigen.
-
-Die Überfahrt
--------------
-
-Unsere Gefährte setzten sich in Bewegung, jedes von uns in einem der kleinen, elfenhaften Boote – nicht größer als ein Kajak, aber durchzogen von Glas und Glanz, mit einem Panoramadach aus kristallklarem Schimmer. Es hieß, man müsse sie treten, wie ein Kind ein Tretboot bewegt. Doch dieses war kein Spiel. Zwölf Stunden lagen vor uns auf dem offenen Wasser.
-
-Der Himmel war ruhig, aber in unseren Gedanken kreisten die Zweifel. „Was, wenn die Kundschafter an den Klippen zerschellten?“, murmelte jemand. Denn nur am Strand, so hatten uns die Elfen mit ernster Miene gewarnt, sei ein Anlanden möglich. Überall sonst ragten Klippen wie Dolche aus dem Meer.
-
-Wir hielten den Kurs – und landeten, zu unserem Glück, wohlbehalten am hellen, feinen Sandstrand. Der Wind wehte sacht durch die Palmen und das Licht brach sich auf den schimmernden Wellen.
-
-Kaum hatten wir das Ufer betreten, entdeckten wir ein weiteres Boot – halb verborgen zwischen Dünen, angespült oder gestrandet. Es war alt, mit grünem Bewuchs überzogen, doch noch intakt. In seinem Innern: Fässer, Säcke, prall gefüllt. Wir öffneten sie und fanden darin Vorräte – viel zu viel Essen für eine Spähmission. Zu viel für fünf.
-
-:ref:`Reagen`, der immer aufmerksam, sagte: „:ref:`Wilbur<Wilbur Goldfell>`, schau nach Spuren.“
-
-Ich kniete mich nieder, legte meine Hand auf den feinen Sand – und da war Bewegung. Nicht im Boden. Sondern vor uns.
-
-Vier Untote kamen aus den Büschen, klagend, taumelnd, die Arme nach uns ausgestreckt. Hinter ihnen – ein Oger, groß wie ein Haus, die Haut von Fäulnis durchzogen, das Maul voller Blut und Speichel.
-
-Ich zog meine Armbrust und feuerte zweimal, die Geschosse zerrissen die Luft. :ref:`Oje<Oje Füübontje>` hob seine Arme und ließ chromatische Kugeln von Feuer und Glanz durch die Luft tanzen. :ref:`Reagen`, mit sicherem Schlag, vertrieb einen der :ref:`Zombies` und trieb den Oger in die Knie.
-
-Es war ein kurzes, grausames Gefecht – doch wir siegten. Die Untoten fielen zurück in das Grab, dem sie entstiegen waren. Der Oger röchelte ein letztes Mal – und dann war Stille.
-
-Wir hatten noch neun Minuten Schild des Glaubens übrig, als wir uns sammelten und atmeten. „Kundschafter“, sagte :ref:`Oje<Oje Füübontje>` leise. „Das waren sie.“
-
-Am Strand
----------
-
-Im Gras, nahe des Boots, fanden wir außerdem kleine Phiolen mit silbrigem Schimmer – Unsichtbarkeitstränke. Drei an der Zahl. Unversehrt.
-
-Der Sand war blutig, aber der Tag noch jung.
-
-Und wir standen nun auf Rutanie. Allein. Bereit. Und mit nichts als unserer Hoffnung, dem Mut im Herzen – und dem ersten Sieg hinter uns.
