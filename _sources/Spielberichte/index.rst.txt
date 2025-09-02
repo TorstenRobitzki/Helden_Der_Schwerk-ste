@@ -4,6 +4,7 @@ Spielberichte
 .. toctree::
    :maxdepth: 4
 
+   Rückkehr von Ruathimi
    Ruathimi
    Ruathym
    Auf dem Weg nach Ruathym
