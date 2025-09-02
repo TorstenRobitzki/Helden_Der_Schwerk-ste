@@ -22,6 +22,7 @@ Die Piraten unterhalten mehrere Versorgungsstationen entlang der Küste. Den Spi
 
 :ref:`Grim Badik` ist zusammen mit der Schwester von :ref:`Wilbur Goldfell`, Wilma Goldfell auf der :ref:`Fearless Tiger`. Ob sie ihn freiwilig begleitet, oder seine Gefangene ist, ist nicht ganz klar.
 
+Das Piratenhauptquartier ist auf der Insel Finback in den Walfischknochen.
 
 .. _Kapitän Flintstan:
 

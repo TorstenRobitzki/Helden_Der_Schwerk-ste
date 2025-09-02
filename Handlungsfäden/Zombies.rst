@@ -20,3 +20,19 @@ Mergan-Kraut
 
 Mergan-Kraut wächst sehr selten, ufernah an den Küsten Faerûns und wird für einige, eher seltene Heiltränke verwendet. Die größten Vorkommen von Mergan-Kraut sind die Ufer der Insel Ruathimi, einer kleinen Nachbarinsel östlich zur Hauptinsel Ruathym. Aus Mergan-Kraut kann eine Medizin gebraut werden, die eine Infektion bei Zombie-Bissen verhindert werden, wenn die Medizin innerhalb von einem Tag eingenommen wird.
 
+.. _Nekromant:
+
+Nekromant
+---------
+
+.. sidebar:: Nekromant
+
+   .. image:: /static/Magier.webp
+
+Die Entstehung der Drachen-Zombies auf Ruathimi scheint zeitlich mit einem Besuch eines Nekromanten, der von den :ref:`Piraten` auf die Insel gebrach wurde, zusammen zu fallen. :ref:`Befragungen<Befragung des Piraten>` eines überlebenden Piraten haben ergeben, dass der Nektromant wohl das Zeichen Cyrics getragen hat.
+
+Der Nekromant hatte einen Betrachter bei sich, der später nur noch ein Zombie war und zurück gelassen wurde.
+
+
+
+

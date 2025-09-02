@@ -14,4 +14,5 @@ NSCs
    Wilma Goldfell.rst
    Seipeo
    Lalaith
+   Ju Hami Ba.rst
 
