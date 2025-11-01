@@ -54,3 +54,35 @@ Das Piratenhauptquartier ist auf der Insel Finback in den Walfischknochen.
 Nachts wird uns noch Essen gereicht, welches tatsächlich vergiftet ist. Es war ganz schön mutig von Wilbour sich für dieses Experiment zu opfern. Mir ist viel zu spät eingefallen, dass ich dafür doch echt besser geeignet wäre.
 
 ….und dann mussten irgendwie ganz viele Menschen ins Bett. So ist das manchmal.
+
+.. _Der Kampf im Lagerhaus:
+
+Der Kampf im Lagerhaus
+----------------------
+
+Wir versteckten uns im Lagerhaus und erwarteten diejenigen, die uns mit dem vergifteten Essen erledigen wollten. Wer würde sich jetzt offenbaren. Der Zauberer :ref:`Olwe`, er wollte uns bei dem :ref:`Verhör der Piraten<Befragung des Piraten>`  hinters Licht führen. Er war der Hauptverdächtige. Vielleicht war er sogar der Nekromant, der hinter der ganzen Zombieseuche steckt. Wir werden es gleich wissen.
+
+.. image:: /static/Kampf_Im_Lagerhaus.png
+
+Meine Gedanken wandern zu :ref:`Lalaith`, die wunderschöne Elfenprinzessin. Mein Herz spürt einen Stich, auch sie ist verdächtig. Sie wollte uns das Essen schicken, das vergiftet ankam. Auch sie ist verdächtig. Eine Träne rollt über meine Wange.
+
+Leise öffneten sich zwei Tore der Lagerhalle. 6 Elfen mit gezückten Waffen traten ein. Ich rieb mir die Träne aus dem Gesicht und rief ihnen zu, sie sollten jetzt lieber keine Bewegung mache, sonst müssten sie mit den Konsequenzen leben. Sie griffen an, doch wir waren schneller.
+
+:ref:`Monki<Hmong Keh Dih Hrafih>` schlägt 2 blitzschnelle Hiebe auf einen mächtig aussehenden Kämpfer, der sich aber nur mürrisch schüttelt. Ich schleudere eine Feuerball auf eine Gruppe von 4 elfischer Schurken, aber auch diese sind wenig beeindruckt. Einen von ihnen kann Wilbur mit eine fesselnden Pfeil festsetzen.
+
+Nun kamen die Elfen an die Reihe der Kämpfer und die drei Schurken stürzten sich auf :ref:`Monki<Hmong Keh Dih Hrafih>`. Zahllose Schläge trafen ihn, doch keiner konnte ihn niederringen. Der Mönch erwies sich als sehr zäh. Die 6. im Bunde eine elegische Kämpferin stürzte zu mir. Ich spüre ihren Atem neben mir. Zu meinem Entsetzen hielt ich irgendwo noch ein 7. Angreifer verborgen und dieser schleuderte sieben Magische Geschosse auf mich. Verwundet hielt ich Ausschau, doch eine mächtige Unsichtbarkeit lag auf ihm.
+
+:ref:`Reagen` rief schützende Geister, die auf die Angreifer in seiner Nähe eindrangen.
+Wie trunken, tänzelte :ref:`Monki<Hmong Keh Dih Hrafih>` um den Kämpfer und schlug weiter auf ihn. Ich versuchte die Kämpferin in ein Huhn zu verwandeln, doch mit grimmiger Mine schüttelte sie den Zauber ab. Weitere Pfeilsalven von unserem Halbling regneten auf die Schurken und :ref:`Frühstück`, sein teuer Bär, kam jetzt aus seinem Versteck und stürzte sich mit einem Brüllen ins Kampfgeschehen.
+
+An allen Seiten brach Chaos aus. :ref:`Reagen` scheiterte mit dem Lähmen der Kämpferin, diese schlug auf mich ein. Der Unsichtbare schleuderte Magische Geschosse auf :ref:`Monki<Hmong Keh Dih Hrafih>`, dieser prügelte sich mit dem Rest der Elfen. Pfeile von :ref:`Wilbur<Wilbur Goldfell>` schlugen in deren Körper. Und unter den Schägen, Pfeilen und Geisterangriffen brechen 4 der Elfen zusammen.
+
+.. sidebar:: Erleichterung
+
+   .. image:: /static/Oje_und_Lalaith.png
+
+Der :ref:`Bär<Frühstück>` wittert den Unsichtbaren und beißt ihn. :ref:`Reagen` ahnt, wohin sich der Zauberer zurückgezogen hat und weist :ref:`Monki<Hmong Keh Dih Hrafih>` den Weg. Der :ref:`Mönch<Hmong Keh Dih Hrafih>` schafft es mit seinen Schlägen, dass der Zauberer seine Unsichtbarkeit nicht aufrecht halten kann. Es ist der elfische Zauberer :ref:`Olwe`, verletzt muss er ansehen, wie mich ein mächtiger Zorn ergreift. Mein Haare brennen als die Magie aus mir herausbricht, und 4 feurige Lanzen durchbohren ihn. :ref:`Olwe`, der Verräter sinkt tödlich getroffen zu Boden.
+In diesem Augenblick wird eine weitere Tür der Halle aufgebrochen und Lalaith und viele Wachen stürzen zu unserer Rettung hinein. Die Kämpferin und der letzte Schurke werden gefangen genommen.
+
+Puh, das war eine Schlacht. Wir steckten uns schnell noch ein paar Habseligkeiten der Getöteten ein und holten tief Luft. :ref:`Lalaith` erzählte mir, dass :ref:`Olwe` das Essen für uns manipulieren ließ und sie furchtbare Angst hatte, dass sie zu spät komme. Sie sank schluchzend in meinem Arm. Ich drückte sie fest an mich. Ein riesiger Stein fiel mir vom Herzen, mein Verdacht ihr gegenüber war falsch gewesen.
+Und zum ersten Mal spürte ich, dass ich Lalaith mit jeder Faser meines Körpers liebte…
