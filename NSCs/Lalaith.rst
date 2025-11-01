@@ -38,3 +38,7 @@ Olwe ist ein Magier.
 
 .. image:: /static/Olwe.webp
 
+Es hat sich herausgestellt, dass Olwe ein Veräter war, der verhindern wollte, dass das :ref:`Mergan-Kraut` von Ruathimi, nicht Ruathym ankommt. :ref:`Olwe` starb bei dem Versuch, die Helden der Schwertküste im :ref:`Kampf im Lagerhaus<Der Kampf im Lagerhaus>`, auszuschalten.
+
+Im Rückblick betrachtet ergeben nun viele Details ein ganz anderen Sinn. Warum verdarb ein Größteil des :ref:`Mergan-Kraut` im Lagerhaus in Tiefwasser? War es nur Zufall, dass Olwe erst an Bord kam, als der Kampf gegen den Aboleth fast zuende war?
+
