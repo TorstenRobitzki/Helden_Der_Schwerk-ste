@@ -6,7 +6,7 @@ Erzählt von :ref:`Wilbur Goldfell`
 Ein nebliger Morgen
 -------------------
 
-Es war ein nebliger Morgen, als wir vor der Königin standen, in der hohen Halle ihres Palastes aus Stein und Licht. Eine Karte lag vor ihr, ausgebreitet wie ein uralter Schleier über dem Tisch. Ihre Finger, fein wie das Geäst im Frühling, zeigten auf eine Insel tief im Süden – Rutanie. Dort, so sagte sie, wüchsen die :ref:`Kräuter<Mergan-Kraut>`, die allein Hoffnung bringen könnten gegen die Dunkelheit, die ihr Reich befallen hatte.
+Es war ein nebliger Morgen, als wir vor der :ref:`Königin<Königin Nairas>` standen, in der hohen Halle ihres Palastes aus Stein und Licht. Eine Karte lag vor ihr, ausgebreitet wie ein uralter Schleier über dem Tisch. Ihre Finger, fein wie das Geäst im Frühling, zeigten auf eine Insel tief im Süden – Rutanie. Dort, so sagte sie, wüchsen die :ref:`Kräuter<Mergan-Kraut>`, die allein Hoffnung bringen könnten gegen die Dunkelheit, die ihr Reich befallen hatte.
 
 :ref:`„Zombies“<Zombies>`, nannte sie die Untoten. Wesen ohne Seele, nur noch Hunger und Schatten, die nachts durch Dörfer streifen und jene beißen, die zu langsam sind. Wer gebissen wird, wird einer von ihnen. Die :ref:`Kräuter<Mergan-Kraut>`, lilafarbene Fingerhüte mit zarten Puscheln, halten das Böse zurück – doch unser Vorrat war erschöpft.
 

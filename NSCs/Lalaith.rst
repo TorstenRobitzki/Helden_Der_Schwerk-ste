@@ -3,7 +3,7 @@
 Lalaith
 -------
 
-Lalaith ist die einzige Tochter von Königin Nairas und Prinzession von Ruathym.
+Lalaith ist die einzige Tochter von :ref:`Königin Nairas` und Prinzession von Ruathym.
 
 Die Abenteurer finden Lalaith in einem Versorgungsposten der :ref:`Golddurstigen <Die Golddurstigen>`, südlich von Baldurs Gate. Erst später erfahren Sie, dass sie eine Prinzessin ist.
 
