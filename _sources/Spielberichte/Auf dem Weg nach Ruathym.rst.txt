@@ -50,6 +50,8 @@ Also ging es los, wir, die Elfen, die wunderschöne :ref:`Lalaith`, :ref:`Olwe`,
 
 Während der Wache von :ref:`Willbur<Wilbur Goldfell>` versuche ich mich ihm anzuvertrauen, er ist doch trotz seiner Größe ein ganzer Halblingsmann. Er kennt sich aus. Stotternd beginne ich ein unverfängliches Gespräch.
 
+.. _Kampf mit dem Aboleth:
+
 Angriff aus der Tiefe
 ---------------------
 
@@ -101,6 +103,8 @@ Als nächstes suchen wir wieder die Händler auf, um die Reise zu den Elbeninsel
 Oje hat uns Karten für ein Theaterstück besorgt. Wir genießen die Zeit mit der barbusigen Barbett. Unsere Magier lässt es sich nicht nehmen der Schönheit (zumindest in seinen Augen) einen großen Strauß Rosen zukommen zu lassen.
 
 Die Stadt war sehr interessant, aber….wir müssen weiter.
+
+.. _Verdorbene Kräuter:
 
 .. sidebar:: Verdorbene Kräuter
 

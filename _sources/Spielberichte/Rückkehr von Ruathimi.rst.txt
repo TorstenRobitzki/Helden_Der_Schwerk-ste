@@ -86,3 +86,81 @@ In diesem Augenblick wird eine weitere Tür der Halle aufgebrochen und Lalaith u
 
 Puh, das war eine Schlacht. Wir steckten uns schnell noch ein paar Habseligkeiten der Getöteten ein und holten tief Luft. :ref:`Lalaith` erzählte mir, dass :ref:`Olwe` das Essen für uns manipulieren ließ und sie furchtbare Angst hatte, dass sie zu spät komme. Sie sank schluchzend in meinem Arm. Ich drückte sie fest an mich. Ein riesiger Stein fiel mir vom Herzen, mein Verdacht ihr gegenüber war falsch gewesen.
 Und zum ersten Mal spürte ich, dass ich Lalaith mit jeder Faser meines Körpers liebte…
+
+Tachbuh vom :ref:`Frühstük<Frühstück>`
+--------------------------------------
+
+.. sidebar:: Tachbuh
+
+   .. image:: /static/Früstück\ in\ Rüstung.png
+
+| zunge raus… beiß… aua… loss gehtz…
+| Heite warn wir in Ruathüm.
+| Groß, laut, stinkt nach Fisch und Menschn.
+
+| Alle wollen zur :ref:`Königin<Königin Nairas>`, aber :ref:`ICH<Frühstück>` muss wieder alle beschützen, sonst gehn se unter wie Kekse im Tee.
+| Nur :ref:`Reegen<Reagen>` nich — der is schlauf.
+| Und Heila.
+| Wenn was kaputt is, macht er „Hmmm…“ und guckt ganz lang drauf.
+| Die andern sagen, das heißt, er kappiert nix.
+| Aber **ICH** weiß:
+| Das is Heila-Denke.
+| Ganz tief.
+| So tief, dass’s fast nix mehr oben gibt.
+
+| Gut, dass ich ihn hab.
+
+| Unterwegs hat :ref:`Ohe<Oje Füübontje>` wieder Herz-Zauba gemacht.
+| Er sagt zu :ref:`Lalit<Lalaith>`, dass er sie lieb hat.
+| Er guckt sie an wie Honigglas, das offen is.
+| Ich hab gelacht, weil er dabei stolpert wie ein Reh ohne Beine.
+| Und dann murmelt er dauernd Zaubazeug, aber nix davon hält Monster fern.
+| Also muss **ICH** wieder aufpassen.
+
+| Dann die Sache mit :ref:`Olve<Olwe>`, dem toten Zaubermann.
+| Stinkt nich mehr, also :ref:`TOT<Der Kampf im Lagerhaus>`.
+| Aber angeblich kommt er wieder.
+| Von mir aus — ich beiß ihn dann einfach zweimal.
+| :ref:`Reegen<Reagen>` wird daneben stehen und „Hmmm“ sagen,
+| was bedeutet:
+| **„Guter Plan, Frühstük.“**
+
+| Im Turm oben diese Bücherhalle gefunden.
+| Tausend Wörter überall.
+| Ich krieg vom Zugucken schon Kopfweh.
+| Dann fliegt ein Zettelvogel weg.
+| Ich wollt ihn packen, aber Wilbur hat wieder nich aufgepasst, wie immer, und stand plötzlich im Weg.
+| Der versteht **NIE**, worum’s geht.
+| Alles zu klein da oben in seinem Kopf.
+
+| Der :ref:`Mönch<Hmong Keh Dih Hrafih>` hat später erzählt, dieser Fatimi ist **PLATSCH** ins Wasser gefallen.
+| Unsichtbar, dann sichtbar.
+| Ich hätt so gern geguckt.
+| Alle lachen, wenn Leute nass werden.
+| Ich auch.
+
+| Dann diese Ringe.
+| Mit Seelen und Zombies und Ärger drin.
+| **ICH** sag: nicht essen → nicht anfassen.
+| Aber keiner hört.
+| Nur :ref:`Reegen<Reagen>` guckt die Ringe lange an.
+| Viele Sekunden.
+| **OHNE** zu blinzeln.
+| Das tun nur wirklich schlaue Leute.
+| Oder sehr müde.
+| Aber bei :ref:`Reegen<Reagen>` is es SCHLAU.
+
+| Am Abend sitzen se alle rum:
+| :ref:`Wilbur<Wilbur Goldfell>` verpeilt,
+| :ref:`Ohe<Oje Füübontje>` herzig und dummverliebt,
+| :ref:`Möng<Hmong Keh Dih Hrafih>` ruhig wie Stein,
+| :ref:`Reegen<Reagen>` klug-am-Denken,
+| :ref:`ICH<Frühstück>` wach wie Held.
+
+| Morgen Walfischknochen-Insel.
+| :ref:`Piraten`.
+| Meer.
+| Gefahr.
+
+| Gut, dass ich :ref:`Frühstük<Frühstück>` bin.
+| Sonst würd diese :ref:`Gruppe<Abenteurer>` nich mal den Weg zum :ref:`Frühstück` finden.
