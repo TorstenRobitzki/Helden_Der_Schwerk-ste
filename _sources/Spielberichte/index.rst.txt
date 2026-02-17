@@ -4,6 +4,7 @@ Spielberichte
 .. toctree::
    :maxdepth: 4
 
+   Hauptquartier der Piraten
    Rückkehr von Ruathimi
    Ruathimi
    Ruathym
